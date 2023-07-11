@@ -16,6 +16,6 @@ public class Main {
         System.out.println(calculadora.calcular(orcamento1)); // Imprime 9.31
         orcamento1.finalizar();
         orcamento1.aplicarDescontoExtra();
-        System.out.println(calculadora.calcular(orcamento1)); // Imprime 9.31
+        System.out.println(calculadora.calcular(orcamento1)); // Imprime 9.31:wq!
     }
 }
